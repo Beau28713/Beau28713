@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Programing and Electronic Engineering 
 - 🌱 I’m currently learning Python, C#, HTML and JavaScript
 - 💞️ I’m looking to collaborate on anything that i can learn from or help with. 
-- 📫 How to reach me https://twitter.com/IwtbotIwtwot
+- 📫 How to reach me https://twitter.com/IwtbotIwtwot www.linkedin.com/in/beau-c-55ab3a120
 
 <!---
 Beau28713/Beau28713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
