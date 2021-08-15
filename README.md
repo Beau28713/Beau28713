@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Beau28713
-- 👀 I’m interested in Computer Programing and Electronic Engineering 
-- 🌱 I’m currently learning Python, C#, HTML and JavaScript
-- 💞️ I’m looking to collaborate on anything that i can learn from or help with. 
-- 📫 How to reach me https://twitter.com/IwtbotIwtwot www.linkedin.com/in/beau-c-55ab3a120
-
-<!---
-Beau28713/Beau28713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Been an Electronics Engineering Tech for 15 years with 2 AAS one in Electronic Engineering and the other in Computer Engineering. In 2021 I Decided to move over to the software side. I started my journey by teaching myself Python. I'm also an avid outdoors guy, I love hiking and fishing. I also love to travel, see, and meet new people. I'm a retro game console and arcade lover. I spend some of my free time fixing and repairing them along with any other electronics I may find lying around. I also love using microcontroller in small projects to help make my life easier. 
