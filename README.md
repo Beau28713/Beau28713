@@ -4,6 +4,6 @@ I'm always looking to connect with new people by sharing my code and helping oth
 
 ## Current programming languages
 * Arduino Wire
-* Pytho
+* Python
 * Ciruitpython
 * C#
