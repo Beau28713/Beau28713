@@ -9,5 +9,4 @@ I'm always looking to connect with new people by sharing my code and helping oth
 * ![](https://img.shields.io/badge/C%23-C%23-red)
 
 ## Connect with me
-[LinkedIn](https://www.linkedin.com/in/beau-c-55ab3a120/)   
-[Instagram](https://www.instagram.com/beauclark40/)
+[LinkedIn](https://www.linkedin.com/in/beau-c-55ab3a120/)
