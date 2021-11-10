@@ -1,5 +1,5 @@
 ## About me!
-Hello 👋 I'm Beau, I'm an Electronics/Software Engineering Technician that loves to create new things using microcontrollers and computer programming.   
+Hello, 'm an Electronics/Software Engineering Technician that loves to create new things using microcontrollers.   
 I'm always looking to connect with new people by sharing my code and helping others write theirs.    
 
 ## Current programming languages
@@ -7,6 +7,3 @@ I'm always looking to connect with new people by sharing my code and helping oth
 * ![](https://img.shields.io/badge/Python-cPython_3.x-green)
 * ![](https://img.shields.io/badge/CircuitPython-CircuitPython-blueviolet)
 * ![](https://img.shields.io/badge/C++-C17+-red)
-
-## Connect with me
-[LinkedIn](https://www.linkedin.com/in/beau-c-55ab3a120/)
