@@ -1,5 +1,5 @@
 ## About me!
-Hello, 'm an Electronics/Software Engineering Technician that loves to create new things using microcontrollers.   
+Hello, I'm an Electronics/Software Engineering Technician that loves to create new things using microcontrollers.   
 I'm always looking to connect with new people by sharing my code and helping others write theirs.    
 
 ## Current programming languages
