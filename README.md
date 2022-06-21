@@ -8,5 +8,6 @@ I Have used the following languages
 * ![](https://img.shields.io/badge/Python-cPython_3.x-green)
 * ![](https://img.shields.io/badge/CircuitPython-CircuitPython-blueviolet)
 * ![](https://img.shields.io/badge/CSharp-CSharp-red)
+* ![](https://img.shields.io/badge/Arduino-Wire-green)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beau28713&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
