@@ -1,7 +1,4 @@
-Hello My name is Beau, Im currently an Electronics Engineering Tech in the Aerospace field.   
-I'm working on becoming a Software Engineer. I'm open to anyone that wants to help and or colaborate.  
-Feel free to open issues or do pull request if you have any suggestions or improvments. I love to learn  
-and make new friends.  
+Hello My name is Beau 
 
 You can find me here:   
 [Instagram Electronics Page](https://www.instagram.com/beauselectronics)  
