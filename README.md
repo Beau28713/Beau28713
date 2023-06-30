@@ -1,4 +1,4 @@
-Curious electronics and software tinkerer, Enjoying creating new things and reverse engineering others. 
+Curious electronics and software tinkerer Enjoying creating new things and reverse engineering others. 
    
 [Linkedin](https://www.linkedin.com/in/beaujclark/)
 
