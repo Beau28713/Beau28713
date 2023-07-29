@@ -1,4 +1,4 @@
-Hello and Welcome to my GitHub profile! I'm Beau, an up and comming developer passionate about building innovative solutions and exploring the exciting world of coding. I'm constantly learning and growing in my technical skills, and this repository serves as a hub for my projects, contributions, and journey as a software developer.
+Hello and Welcome to my GitHub profile! I'm Beau, an up and comming developer passionate about building innovative solutions and exploring the exciting world of Embedded Systems. I'm constantly learning and growing my technical skills, and this repository serves as a hub for my projects, contributions, and journey as a developer.
 
 ## About Me
 🌱 I'm currently exploring various programming languages and frameworks.  
