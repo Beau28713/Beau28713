@@ -17,14 +17,6 @@ Web Development: HTML and CSS
 Problem Solving  
 Object-Oriented Programming  
 
-## Projects
-Here are a few projects I've been working on:  
-
-Calculator_beau28713 - A Gui application built with Python and kivy.  
-Gsme1 - A Python 2d game using the Arcade game engin.  
-Internet test connection - A Arduino Software and Electronics project that test to see if a router has connection.  
-Feel free to explore these projects in more detail within my GitHub repository.  
-
 ## Contributions  
 Apart from my personal projects, I enjoy contributing to open source projects and collaborating with other developers. I believe that working together with the developer community helps me improve my skills and make a positive impact on the software development community as a whole.
 
