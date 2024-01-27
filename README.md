@@ -1,4 +1,6 @@
-Hello and Welcome to my GitHub profile! I'm Beau, an up and comming developer passionate about building innovative solutions and exploring the exciting world of Embedded Systems. I'm constantly learning and growing my technical skills, and this repository serves as a hub for my projects, contributions, and journey as a developer.
+Hello and Welcome to my GitHub profile! I'm Beau, an up and comming developer passionate about building innovative solutions and exploring the exciting world of Embedded Systems. I'm constantly learning and growing my technical skills, and this repository serves as a hub for my projects, contributions, and journey as a developer.  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beau28713&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 🌱 I'm currently exploring various programming languages and frameworks.  
