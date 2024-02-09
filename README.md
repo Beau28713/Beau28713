@@ -1,29 +1,25 @@
-Hello and Welcome to my GitHub profile! I'm Beau, an up and comming developer passionate about building innovative solutions and exploring the exciting world of Embedded Systems. I'm constantly learning and growing my technical skills, and this repository serves as a hub for my projects, contributions, and journey as a developer.  
+Hello, I'm Beau 👋  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beau28713&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+I'm a passionate electronics and robotics developer with a keen interest in blending hardware and software to create innovative solutions. My journey in this field began 2011. I'm constantly exploring new technologies and methodologies to push the boundaries of what's possible in electronics and robotics.  
 
-## About Me
-🌱 I'm currently exploring various programming languages and frameworks.  
-🔭 I’m currently working on personal projects to enhance my skills.  
-💼 I'm actively seeking opportunities to collaborate on exciting projects.  
-📚 I'm always learning and expanding my knowledge base.  
-⚡ Fun fact: I love playing video games and exploring the outdoors.  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beau28713&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
 ## Skills  
-Here are some of the skills I'm currently developing:   
-Programming Languages: Python, C++, Arduino  
-Frameworks and Libraries: Kivy, Flask, Arcade  
-Version Control: Git, GitHub  
-Databases: MySQL, MongoDB  
-Web Development: HTML and CSS  
-Problem Solving  
-Object-Oriented Programming  
+- Embedded Systems: Proficient in programming microcontrollers (Arduino, Raspberry Pi, ESP8266/ESP32) for various applications.  
+- PCB Design: Experienced in designing and prototyping PCBs using tools like Eagle and KiCad.  
+- Robotics: Skilled in building and programming robots for tasks ranging from simple automation to complex autonomous navigation.
+- 3D Printing: Use of 3D printing software and hardware to accomplish task.
+- Software Development: Proficient in Python and c++ (Arduino) programming languages.    
+- Sensor Integration: Expertise in integrating various sensors (IMU, ultrasonic, LiDAR, etc.) for perception and feedback in robotics projects.  
+- Computer Vision: Familiarity with computer vision techniques and libraries (OpenCV, TensorFlow, etc.) for object detection, tracking, and recognition.  
+- Control Systems: Knowledgeable in control theory and implementation for precise motion control and stability in robotic systems.  
+ 
 
-## Contributions  
-Apart from my personal projects, I enjoy contributing to open source projects and collaborating with other developers. I believe that working together with the developer community helps me improve my skills and make a positive impact on the software development community as a whole.
+## Open to Collaboration
+I'm always open to collaborating on exciting electronics and robotics projects. Whether you're working on a hobby project or a commercial venture, feel free to reach out if you think I can contribute in any way.  
+If you share similar interests or have any questions, don't hesitate to connect with me. I'm looking forward to engaging with fellow enthusiasts and professionals in the electronics and robotics community.
 
 ## Get in Touch  
-I'm always open to connecting with fellow developers, sharing knowledge, and collaborating on exciting projects. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me through the following channels:  
-
-LinkedIn: [linkedin.com/in/beauclark](https://www.linkedin.com/in/beaujclark/)    
-Let's learn and grow together! Thank you for visiting my GitHub profile.  
+LinkedIn: [linkedin.com/in/beauclark](https://www.linkedin.com/in/beaujclark/)
