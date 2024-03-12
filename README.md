@@ -19,6 +19,3 @@
 - Sensor Integration: Expertise in integrating various sensors (IMU, ultrasonic, LiDAR, etc.) for perception and feedback in robotics projects.  
 - Computer Vision: Familiarity with computer vision techniques and libraries (OpenCV, TensorFlow, etc.) for object detection, tracking, and recognition.  
 - Control Systems: Knowledgeable in control theory and implementation for precise motion control and stability in robotic systems.  
-
-## Get in Touch  
-LinkedIn: [linkedin.com/in/beauclark](https://www.linkedin.com/in/beaujclark/)
