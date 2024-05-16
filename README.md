@@ -11,7 +11,7 @@
 
 
 ## Skills  
-- Embedded Systems: Proficient in programming microcontrollers (Arduino, Raspberry Pi, ESP8266/ESP32) for various applications.  
+- Embedded Systems: Proficient in programming microcontrollers (AVR, STM, M0 ESP8266/ESP32) for various applications.  
 - PCB Design: Experienced in designing and prototyping PCBs using tools like Eagle and KiCad.  
 - Robotics: Skilled in building and programming robots for tasks ranging from simple automation to complex autonomous navigation.
 - 3D Printing: Use of 3D printing software and hardware to accomplish task.
