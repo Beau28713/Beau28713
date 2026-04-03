@@ -6,7 +6,6 @@
 
 💡 Lifelong Learner: Technology is ever-evolving, and I'm committed to continuous learning and growth. My GitHub journey is not just about sharing my projects but also about learning from others and staying updated with the latest advancements in automation and electronics.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beau28713&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
