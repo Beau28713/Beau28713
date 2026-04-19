@@ -34,4 +34,4 @@ I’m an electronics and automation professional with hands-on experience in con
 This GitHub is where I document projects, experiments, and learning as I continue growing in embedded systems and automation.
 
 ## Connect with me
-- LinkedIn: [https://www.linkedin.com/in/beaujclark/]
+- LinkedIn: https://www.linkedin.com/in/beaujclark
