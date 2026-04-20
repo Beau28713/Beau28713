@@ -4,6 +4,7 @@ I’m an electronics and automation professional with hands-on experience in con
 
 ## What I work on
 - Embedded systems
+- PLC and SCADA 
 - Arduino and microcontroller projects
 - Python tools and automation
 - Sensors, controls, and electronics troubleshooting
