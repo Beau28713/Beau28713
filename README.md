@@ -15,13 +15,14 @@ I’m an electronics and automation professional with hands-on experience in con
 - Creating a portfolio for controls and automation engineering opportunities
 
 ## Tech I use
-- Arduino
 - Python
+
+### Future 
+- Arduino
 - C/C++ for microcontrollers
 - PLC / controls concepts
 - Electronics prototyping
 - Sensors and actuators
-- GitHub for documenting projects and progress
 
 ## Featured project ideas
 - Tank level control simulator
