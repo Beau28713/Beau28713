@@ -17,7 +17,7 @@ I’m an electronics and automation professional with hands-on experience in con
 
 ## Tech I use
 - Python
-- Raspberry Pie
+- Raspberry Pi
 - Arduino
 - C/C++ for microcontrollers
 - PLC / controls concepts
