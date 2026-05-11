@@ -1,38 +1,44 @@
 # Hi, I'm Beau Clark
 
-I’m an electronics and automation professional with hands-on experience in controls, sensors, microcontrollers, and industrial systems. I’m working toward growing deeper in embedded systems, automation, and controls engineering.
+I'm an industrial automation, field service, and electronics professional focused on controls, embedded systems, PLC-connected equipment, VFDs, sensors, and practical automation projects.
 
-## What I work on
-- Embedded systems
-- PLC and SCADA 
-- Arduino and microcontroller projects
-- Python tools and automation
-- Sensors, controls, and electronics troubleshooting
-- Industrial and home automation concepts
+My background includes VFDs, soft starters, DCS/SCADA support, building automation systems, industrial electronics troubleshooting, Python/C++ scripting, Arduino projects, and hands-on field service work.
 
-## Current focus
-- Building projects that show real-world control logic
-- Improving my Python and embedded programming skills
-- Creating a portfolio for controls and automation engineering opportunities
+## Current Focus
 
-## Tech I use
+- PLC and controls logic
+- Ladder logic and structured text
+- Pump control and tank level systems
+- VFD and motor control concepts
+- Arduino and embedded control projects
+- Python tools for automation and simulation
+- SCADA/HMI and operator interface concepts
+
+## Featured Projects
+
+### BackFlush - Arduino Pump and Valve Control System
+Arduino-based automatic/manual backflush controller using relay outputs, analog level sensing, LCD status display, low-water protection, switch debouncing, and non-blocking state-machine logic.
+
+### Waste Water VFD Control - OpenPLC / Ladder Logic / Structured Text
+PLC-style pump/VFD control project using HOA mode selection, run permissives, latched faults, reset behavior, level conditions, ladder logic, structured text, and function block concepts.
+
+### Menu Driven Tank Sim - Python Process Control Simulator
+Python tank level simulator demonstrating process-control logic, operator interaction, alarms, limits, fill/drain behavior, and automation-style state changes.
+
+## Technologies
+
 - Python
-- Raspberry Pi
+- C / C++
 - Arduino
-- C/C++ for microcontrollers
-- PLC / controls concepts
-- Electronics prototyping
+- Raspberry Pi
+- OpenPLC
+- Ladder logic
+- Structured text
+- Serial communication
 - Sensors and actuators
+- VFDs and motor control
+- Industrial automation concepts
 
-## Featured project ideas
-- Tank level control simulator
-- Pump control logic demo
-- Sensor monitoring dashboard
-- Home automation with Ignition
-- Arduino-based process control trainer
+## Connect
 
-## What you'll find here
-This GitHub is where I document projects, experiments, and learning as I continue growing in embedded systems and automation.
-
-## Connect with me
-- LinkedIn: https://www.linkedin.com/in/beaujclark
+- LinkedIn: https://www.linkedin.com/in/beaujclark/
