@@ -1,44 +1,76 @@
 # Hi, I'm Beau Clark
 
-I'm an industrial automation, field service, and electronics professional focused on controls, embedded systems, PLC-connected equipment, VFDs, sensors, and practical automation projects.
+### OEM Applications Design Engineer | Industrial Automation | HVAC Controls | Python Developer
 
-My background includes VFDs, soft starters, DCS/SCADA support, building automation systems, industrial electronics troubleshooting, Python/C++ scripting, Arduino projects, and hands-on field service work.
+I'm an **OEM Applications Design Engineer at Schneider Electric**, specializing in HVAC automation, programmable logic controllers, and industrial control solutions.
 
-## Current Focus
+My professional background combines hands-on field service, industrial electronics, motor controls, and automation engineering. I enjoy developing practical solutions that connect control-system design with software development.
 
-- PLC and controls logic
-- Ladder logic and structured text
-- Pump control and tank level systems
-- VFD and motor control concepts
-- Arduino and embedded control projects
-- Python tools for automation and simulation
-- SCADA/HMI and operator interface concepts
+I use Python to build engineering utilities, experiment with automation concepts, and improve my programming skills.
+
+## Professional Focus
+
+- **HVAC Automation:** OEM equipment controls, application design, and control-system development
+- **PLC Programming:** IEC 61131-3 Structured Text, Ladder Logic, function blocks, and control sequences
+- **Schneider Electric Platforms:** Modicon TM171, TM172, TM173, and TM262
+- **Engineering Software:** EcoStruxure Machine Expert HVAC, Machine Expert Logic Builder, Operator Terminal Expert, and Vijeo Designer
+- **Motor Control:** Variable Frequency Drives, soft starters, motor protection, and application integration
+- **Python Development:** Engineering utilities, process simulation, file comparison, and workflow automation
 
 ## Featured Projects
 
-### BackFlush - Arduino Pump and Valve Control System
-Arduino-based automatic/manual backflush controller using relay outputs, analog level sensing, LCD status display, low-water protection, switch debouncing, and non-blocking state-machine logic.
+### Industrial Controls & Automation
 
-### Waste Water VFD Control - OpenPLC / Ladder Logic / Structured Text
-PLC-style pump/VFD control project using HOA mode selection, run permissives, latched faults, reset behavior, level conditions, ladder logic, structured text, and function block concepts.
+**[Dual Pump Tank Level Control](https://github.com/Beau28713/Dual_Pump_Tank_Level_Control)**
 
-### Menu Driven Tank Sim - Python Process Control Simulator
-Python tank level simulator demonstrating process-control logic, operator interaction, alarms, limits, fill/drain behavior, and automation-style state changes.
+Dual-pump control logic featuring lead/lag operation, level monitoring, alarms, and pump sequencing.
 
-## Technologies
+**[Waste Water VFD Control](https://github.com/Beau28713/Waste_Water_VFD_Control)**
 
-- Python
-- C / C++
-- Arduino
-- Raspberry Pi
-- OpenPLC
-- Ladder logic
-- Structured text
-- Serial communication
-- Sensors and actuators
-- VFDs and motor control
-- Industrial automation concepts
+PLC-style VFD control application exploring manual and automatic operation, fault handling, permissives, and motor-control logic.
 
-## Connect
+**[BackFlush](https://github.com/Beau28713/BackFlush)**
 
-- LinkedIn: https://www.linkedin.com/in/beaujclark/
+Arduino-based automated backflush controller with sensor monitoring, relay outputs, protective logic, and state-machine programming.
+
+### Python Engineering Tools
+
+**[Folder Compare](https://github.com/Beau28713/Folder_Compare)**
+
+A Windows-friendly Python utility for comparing directories and subdirectories to identify file differences without changing source files.
+
+**[Menu Driven Tank Simulator](https://github.com/Beau28713/Menu_Driven_Tank_Sim)**
+
+Python-based process control simulation exploring tank levels, operator commands, and basic automation sequences.
+
+**[Mouser Parts Search](https://github.com/Beau28713/Mouser_Parts_Search)**
+
+A Python utility for electronic component research and parts lookup.
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| PLCs | Schneider Electric Modicon TM171, TM172, TM173, TM262, OpenPLC |
+| Programming | Python, Structured Text, Ladder Logic, C/C++ |
+| Engineering Software | Machine Expert HVAC, Machine Expert Logic Builder |
+| HMI Development | Operator Terminal Expert, Vijeo Designer |
+| Industrial Controls | VFDs, Soft Starters, Sensors, Motor Control |
+| Embedded Systems | Arduino, Raspberry Pi |
+| Additional Experience | SCADA, DCS, BAS, Field Service, Industrial Electronics |
+
+## Current Learning & Development
+
+I'm continuing to expand my skills in:
+
+- Advanced Python development for industrial automation
+- PLC communication and automated testing
+- HVAC equipment simulation and control strategies
+- Reusable software tools for engineering and commissioning
+- Integrating traditional industrial control systems with modern software development
+
+## Connect With Me
+
+**[LinkedIn](https://www.linkedin.com/in/beaujclark/)**
+
+*The projects on this profile are personal learning and development work unless otherwise stated. They do not represent official Schneider Electric products or software.*
